@@ -12,3 +12,4 @@ After that, coverage.txt file, which contains overall coverage data, will apear 
 
 * Definable covermode (now it is always atomic)
 * Definable coverage report file name (now it is always coverage.txt)
+* Update info if new version released
