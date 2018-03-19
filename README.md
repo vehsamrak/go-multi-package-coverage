@@ -7,3 +7,8 @@ If you will try to test with coverage a golang project with multiple packages in
 Execute `bash <(curl -s https://raw.githubusercontent.com/Vehsamrak/go-multi-package-coverage/master/test.sh)`
 
 After that, coverage.txt file, which contains overall coverage data, will apear in working directory.
+
+## Upcoming features
+
+* Definable covermode (now it is always atomic)
+* Definable coverage report file name (now it is always coverage.txt)
